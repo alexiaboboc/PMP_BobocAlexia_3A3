@@ -9,8 +9,8 @@ Efectul lui θ:
 
 
 Interacțiunea dintre Y și θ:
--> valori mai mari ale lui Y duc la valori mai mari ale lui n
--> valori mai mari ale lui θ duc la valori mai mici ale lui n pentru un Y fix
+- valori mai mari ale lui Y duc la valori mai mari ale lui n
+- valori mai mari ale lui θ duc la valori mai mici ale lui n pentru un Y fix
 - Distribuția a posteriori reflectă acest compromis între observațiile Y și probabilitatea de succes θ.
 
 
